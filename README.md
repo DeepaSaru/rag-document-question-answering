@@ -299,13 +299,13 @@ Potential next-level improvements:
 
 # Features Included
 
-✅ PDF document ingestion
-✅ Text chunking
-✅ Embedding generation
-✅ Vector database indexing
-✅ Semantic retrieval
-✅ Prompt grounding
-✅ LLM-based response generation
+- PDF document ingestion
+- Text chunking
+- Embedding generation
+- Vector database indexing
+- Semantic retrieval
+- Prompt grounding
+- LLM-based response generation
 
 ---
 
