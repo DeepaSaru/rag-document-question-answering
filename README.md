@@ -266,10 +266,10 @@ These challenges provided valuable hands-on experience with real-world AI engine
 
 ## RAG Depends Heavily On:
 
-✅ Chunk quality
-✅ Retrieval relevance
-✅ Embedding quality
-✅ Prompt design
+- Chunk quality
+- Retrieval relevance
+- Embedding quality
+- Prompt design
 
 The LLM alone is not the entire system.
 
